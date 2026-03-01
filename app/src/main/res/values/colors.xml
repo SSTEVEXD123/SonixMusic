@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sonix_background">#090D14</color>
+    <color name="sonix_primary">#5D8BFF</color>
+    <color name="sonix_surface">#131A27</color>
+</resources>

@@ -1,0 +1,1 @@
+# SonixMusic release rules
